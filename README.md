@@ -1,1 +1,1 @@
-# This is a Repo of multiple HTML projects, find the details and link to each project below.
+# This is a Repo of multiple JavaScript projects, find the details and link to each project below.
